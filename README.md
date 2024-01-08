@@ -2,7 +2,7 @@
 
 - 👋 Hi everyone ❤️ I’m Ester.
 - 👀 I’m interested in coding, <strong>pizza</strong> 🍕 and modern languages.
-- 🌱 I’m currently learning react ⚛️ and reviewing all the things that I've learned in the 6 month Boolean bootcamp (HTML5, CSS, Bootstrap, JavaScript, VueJs, Vite, SASS, PHP,
+- 🌱 I’m currently learning ReactJs ⚛️ and reviewing all the things that I've learned in the 6 month Boolean bootcamp (HTML5, CSS, Bootstrap, JavaScript, VueJs, Vite, SASS, PHP,
   Laravel 10, OOP, rdbms, MySQL, PHPMyAdimn, Postman, AJAX, REST API and AXIOS). <br>
   <hr>
    <p align="center">
