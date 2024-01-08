@@ -10,19 +10,28 @@
    </p>
   <hr>
 - 💞️ I’m looking to collaborate on useful & productive apps, innovative websites and creative projects.
-- 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/ester-dahri-7559212a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <br>
-  <a href="https://www.instagram.com/esti.148/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <br>
+- 📫 How to reach me: <br>
+  <a href="https://www.linkedin.com/in/ester-dahri-7559212a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.instagram.com/esti.148/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
   <a href="https://open.spotify.com/playlist/4xqaDMF4E9zFOoENyZQ9Fk" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <h4> Here's a little overview about my projects </h4> 
-<img src="https://myreadme.vercel.app/api/embed/EsterDahri1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/EsterDahri1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
 
 <h4>What I usually listen to</h4>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+<hr>
+<p>
+  
+  <a> [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]( https://open.spotify.com/intl-it/artist/1dABGukgZ8XKKOdd2rVSHM ) </a>
+</p>
 
 <h4>Laugh Lots, Live Longer</h4>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
 <!---
 EsterDahri1/EsterDahri1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
