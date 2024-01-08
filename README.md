@@ -1,7 +1,7 @@
 <h1>Hello World! 😊</h1>
 
 - 👋 Hi everyone ❤️ I’m Ester.
-- 👀 I’m interested in coding ![1000GIF](https://github.com/EsterDahri1/EsterDahri1/assets/137309250/38063fcb-f724-49bf-8ba2-bf508a52dcb2), pizza 🍕 and modern languages.
+- 👀 I’m interested in coding, pizza 🍕 and modern languages.
 - 🌱 I’m currently learning react ⚛️ and reviewing all the things that I've learned in the 6 month Boolean bootcamp (HTML5, CSS, Bootstrap, JavaScript, VueJs, Vite, SASS, PHP,
   Laravel 10, OOP, rdbms, MySQL, PHPMyAdimn, Postman, AJAX, REST API and AXIOS). <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsterDahri1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
